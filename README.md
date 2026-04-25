@@ -158,4 +158,3 @@ Ecommerce-Sales-Analysis
 ## 👨‍💻 Author
 
 **Aamer Farooqui**
-Aspiring **Data Analyst** skilled in **SQL, Python, Excel, and Power BI**.
