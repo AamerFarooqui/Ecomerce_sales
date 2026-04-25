@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis (SQL Project)
+# 🛒 E-Commerce Sales & Profit Analysis
 
 ## 📌 Project Overview
 
@@ -128,11 +128,30 @@ Ecommerce-Sales-Analysis
 
 ---
 
-## 📌 Future Improvements
+## 💡 Business Recommendations
+1. Reduce Dependency Risk
+* Expand into underperforming cities & states
+* Onboard more sellers to reduce concentration
 
-* Build a **Power BI or Tableau dashboard**
-* Perform **Python-based exploratory data analysis**
-* Implement **predictive analytics for sales forecasting**
+ 2. Optimize Product Strategy
+* Invest more in high-performing category (57% revenue)
+* Improve marketing for low-performing categories
+
+3. Optimize Product Strategy
+* Invest more in high-performing category (57% revenue)
+* Improve marketing for low-performing categories
+
+4. Improve Profitability
+* Apply São Paulo pricing strategy to other regions
+* Focus on high-margin products
+
+5. Sales Growth Strategy
+* Target low-sales months (Sep–Nov) with campaigns
+* Use seasonal promotions during peak months
+
+6. Payment Optimization
+* Encourage UPI / Debit usage to reduce transaction cost
+* Offer incentives on alternative payment methods
 
 ---
 
