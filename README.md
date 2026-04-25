@@ -99,7 +99,7 @@ These queries demonstrate advanced analytical SQL skills such as window function
 * Time Series Analysis
 * Business Problem Solving
 * Data Analysis
-
+* Power BI Dashboard
 ---
 
 ## 📂 Project Structure
@@ -114,17 +114,24 @@ Ecommerce-Sales-Analysis
 │
 ├── Dataset
 │   └── Ecommerce Dataset
-│
+├── Dashboards
+|   └──Ecommerce Dashboard
+|                                                                                                                           
 └── README.md
 ```
 
 ---
 
-## 🚀 How to Use This Project
+## Dashboards
+1.Overview & Trends
+<img width="1196" height="672" alt="image" src="https://github.com/user-attachments/assets/59b631ed-35d7-4b65-871d-2e4ccbb37131" />
 
-1. Import the dataset into **MySQL**
-2. Run the SQL queries provided in the project
-3. Analyze the outputs to understand business insights
+2.Sellers Performance
+<img width="1195" height="658" alt="image" src="https://github.com/user-attachments/assets/7f04509a-8a7b-4768-a089-84663aad584a" />
+
+3.Locations & Insights
+<img width="1204" height="672" alt="image" src="https://github.com/user-attachments/assets/3d2cca74-9c81-4aea-b318-c2c039fa6114" />
+
 
 ---
 
